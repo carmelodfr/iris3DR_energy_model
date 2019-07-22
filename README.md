@@ -18,7 +18,9 @@ If you use this code for your research, please cite:
 }
 ```
 
-## Refernces
+## References
+
+Papers that introduce the energy model or that use it for Coverage Path Planning operations
 
 * Di Franco, Carmelo, and Giorgio Buttazzo. "Energy-aware coverage path planning of UAVs." 2015 IEEE International Conference on Autonomous Robot Systems and Competitions. IEEE, 2015.
 * Di Franco, Carmelo, and Giorgio Buttazzo. "Coverage path planning for UAVs photogrammetry with energy and resolution constraints." Journal of Intelligent & Robotic Systems 83.3-4 (2016): 445-462.
